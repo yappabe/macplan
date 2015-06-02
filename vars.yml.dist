@@ -14,11 +14,13 @@ homebrew_apps:
     - htop-osx
     - ssh-copy-id
     - git-flow
+    - git-ftp
+    - boot2docker
+    - docker-compose
 
 cask_apps:
   - sublime-text3
   - vagrant
-  - vagrant-manager
   - virtualbox
   - google-chrome
   - firefox
